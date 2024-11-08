@@ -47,24 +47,25 @@ comment end -->
 ## 🔘 Github Stats:
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" style="width: 850px;"/>
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" style="width: 421px;"/>
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Commit Language" style="width: 421px;"/>
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/3-stats.svg" alt="Stats" style="width: 421px;"/>
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/4-productive-time.svg" alt="Productive Time" style="width: 421px;" />
-</a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" style="width: 850px; height: 200px;"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" style="width: 421px; height: 200px;"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Commit Language" style="width: 421px; height: 200px;"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/3-stats.svg" alt="Stats" style="width: 421px; height: 200px;"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/4-productive-time.svg" alt="Productive Time" style="width: 421px; height: 200px;" />
+  </a>
 </div>
 
 <hr/>
+
 
 
 ## 🏆 GitHub Trophies
