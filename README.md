@@ -16,8 +16,12 @@
 
 ## 🙋🏻‍♂ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆....
 🚀  How to reach me: sahilgupta3030@gmail.com <br>
-Linkedin: <a href="https://linkedin.com/in/sahilgupta3030" target="_blank">
+**Linkedin:** <a href="https://linkedin.com/in/sahilgupta3030" target="_blank">
   linkedin.com/in/sahilgupta3030
+</a> 
+<br>
+**Social Links:** <a href="https://beacons.page/sahilgupta3030" target="_blank">
+  beacons.page/sahilgupta3030
 </a>
 
 
